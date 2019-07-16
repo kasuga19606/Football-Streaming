@@ -24,4 +24,4 @@ Video information
   * passport
   * passport-local
   * bcrypt
-  * Youtube-Data-API
+  * Youtube-Data-API(https://developers.google.com/youtube/v3/)
